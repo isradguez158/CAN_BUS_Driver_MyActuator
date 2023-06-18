@@ -1,1 +1,1 @@
-
+These actuators are equipped with a driver chip that effectively handles the motor control at a low level. They can be controlled through a CAN bus or Serial Port using our open-source library. We have extensively tested this library with the RMD model and expect it to be compatible with all Gyems MyActuators.
